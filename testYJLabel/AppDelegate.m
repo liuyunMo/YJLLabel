@@ -18,7 +18,7 @@
     
     
     YJLLabel *label=[[YJLLabel alloc] initWithFrame:CGRectMake(80, 100, 160, 30)];
-    label.text=@"    just for test!你好！®Ω～～～    ";
+    label.text=@"     just for test!你好！®Ω～～～    ";
     label.backgroundColor=[UIColor clearColor];
     [self.window addSubview:label];
     [label release]; 
